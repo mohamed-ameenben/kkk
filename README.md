@@ -1,1 +1,1 @@
-"bonjour les cornichons" 
+"bonjour" 
